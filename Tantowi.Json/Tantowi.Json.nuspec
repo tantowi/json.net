@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="file">LICENSE.txt</license>
+    <projectUrl>https://github.com/tantowi/json.cs</projectUrl>
+    <icon>Owl.png</icon>
+    <description>$description$</description>
+    <releaseNotes>Initial release of tantowi.json package</releaseNotes>
+    <copyright>Copyright &copy; 2020 Tantowi Mustofa</copyright>
+    <tags>json tantowi</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="Owl.ico" target="" />
+    <file src="Owl.png" target="" />
+    <file src="LICENSE.txt" target="" />
+  </files>
+</package>

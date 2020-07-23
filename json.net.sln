@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tantowi.Json", "Tantowi.Json\Tantowi.Json.csproj", "{4D2565B7-22B2-4129-BCFF-663AC7902834}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tantowi.Json.Test", "Tantowi.Json.Test\Tantowi.Json.Test.csproj", "{4963FD58-B576-45A0-8A1B-46EE34F6D393}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D2565B7-22B2-4129-BCFF-663AC7902834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D2565B7-22B2-4129-BCFF-663AC7902834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D2565B7-22B2-4129-BCFF-663AC7902834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D2565B7-22B2-4129-BCFF-663AC7902834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4963FD58-B576-45A0-8A1B-46EE34F6D393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4963FD58-B576-45A0-8A1B-46EE34F6D393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4963FD58-B576-45A0-8A1B-46EE34F6D393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4963FD58-B576-45A0-8A1B-46EE34F6D393}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C71DFAA-E7B8-4333-B52C-50B38F144D2D}
+	EndGlobalSection
+EndGlobal
